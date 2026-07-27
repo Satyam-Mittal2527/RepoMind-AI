@@ -60,7 +60,7 @@ RepoMind/
 Clone the repository:
 
 ```bash
-git clone (https://github.com/Satyam-Mittal2527/RepoMind-AI)
+git clone [https://github.com/Satyam-Mittal2527/RepoMind-AI]
 
 cd RepoMind
 ```
