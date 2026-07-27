@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+langchain.textS-plitter
+faiss-cpu
+tiktoken
+python-dotenv
+langchain
+google-genai
+GitPython
